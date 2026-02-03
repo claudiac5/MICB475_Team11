@@ -143,6 +143,7 @@ Possible confounders: Arm_short, Age, Gender
 
 https://doi.org/10.3389/fmicb.2020.00997
 Gastric Cancer dataset
+
 Do metabolic markers (like glucose, chol
 esterol triglycerides) explain microbiome variations independent of cancer stage?
 -	Group
