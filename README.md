@@ -127,3 +127,24 @@ Research question
 # Agenda - Feburary 4
 - Present our chosen dataset 
 - Propose potential research questions and areas of exploration
+
+Possible Project Ideas (Andy)
+10.1186/s40168-023-01718-4
+HIV dataset
+Does being on certain anti-retrovirals correlate with microbiome differences after controlling for BMI and antibiotics?
+-	BMI
+-	Antibiotics
+-	Cohort_short
+-	Current_art
+Possible confounders: Arm_short, Age, Gender
+
+https://doi.org/10.3389/fmicb.2020.00997
+Gastric Cancer dataset
+Do metabolic markers (like glucose, cholesterol triglycerides) explain microbiome variations independent of cancer stage?
+-	Group
+-	BMI
+-	Blood Glucose
+-	Total Cholesterol
+-	Triglyceride
+Possible confounders: Age, Gender, H. pylori test, Site
+
