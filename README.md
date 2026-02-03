@@ -101,7 +101,23 @@ Rationale
 Research question
 - Does gut microbiome composition and diversity differ between male and female MS patients?
 
+Alcohol Consumption
 
+Background 
+- Drinking alcohol is associated with variation in human oral microbiome (Fan et al., 2018)
+- Smoking alters oral microbiome diversity and composition
+    - lower alpha diversity (Yu et al., 2017)
+
+ Gap 
+ - Thomas et al. (2014) investigated how alcohol and tobacco consumption affects bacterial richness in oral cavity mucosa biofilms
+ - small sample size of 22 subjects
+ - investigated 7 chronic and heavy users of both substances and 6 active smokers (rest were controls)
+ - found a signifcant decrease in species richness in only smokers and smokers and drinkers compared to control
+ - could not find a paper investigating drinkers and how smoking could have an affect
+ - few studies investigated whether smoking modifies or changes the strength of associations between alcohol intake and oral microbiome 
+
+Research question
+- Does smoking status modify the association between alcohol consumption and oral microbiome diversity and composition? (ie is the effect of alcohol different in smokers vs non-smokers)
 
 
 
