@@ -128,18 +128,7 @@ Research question
 Research question
 - Does smoking status modify the association between alcohol consumption and oral microbiome diversity and composition? (ie is the effect of alcohol different in smokers vs non-smokers)
 
-
-
-#### Possible Neuro-Imbalances Within Different Disorders: 
-
-Background / Novelty
-- Most UJEMI papers focus on a single disease. This project would compare the gut-brain axis across three distinct neurological/psychiatric conditions.
-- This is novel because we are NOT asking "What is the PD microbiome?", but instead "Is there a shared 'neuro-inflammatory' metabolic signature?" 
-- We will use the "Depression" dataset as a baseline for mental health and see if those same markers appear in the MS and Parkinson’s cohorts.
-- We hope to find certain "pro-inflammatory" metabolic signals that are common in both (eg: copper and potassium), suggesting that the microbiome doesn't just reflect a specific disease, but a general state of neurological stress.
-
-Research Question
-- Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
+#### ART and microbiome
 
 Possible Project Ideas (Andy)
 
@@ -153,12 +142,12 @@ Does being on certain anti-retrovirals correlate with microbiome differences aft
 -	Current_art
 Possible confounders: Arm_short, Age, Gender
 
+#### Gastric cancer and metabolic markers
 
 https://doi.org/10.3389/fmicb.2020.00997
 Gastric Cancer dataset
 
-Do metabolic markers (like glucose, chol
-esterol triglycerides) explain microbiome variations independent of cancer stage?
+Do metabolic markers (like glucose, cholesterol triglycerides) explain microbiome variations independent of cancer stage?
 -	Group
 -	BMI
 -	Blood Glucose
@@ -170,6 +159,19 @@ Possible confounders: Age, Gender, H. pylori test, Site
 # Agenda - February 4
 - Present our chosen dataset 
 - Propose potential research questions and areas of exploration
+
+#### Possible Neuro-Imbalances Within Different Disorders: 
+
+Background / Novelty
+- Most UJEMI papers focus on a single disease. This project would compare the gut-brain axis across three distinct neurological/psychiatric conditions.
+- This is novel because we are NOT asking "What is the PD microbiome?", but instead "Is there a shared 'neuro-inflammatory' metabolic signature?" 
+- We will use the "Depression" dataset as a baseline for mental health and see if those same markers appear in the MS and Parkinson’s cohorts.
+- We hope to find certain "pro-inflammatory" metabolic signals that are common in both (eg: copper and potassium), suggesting that the microbiome doesn't just reflect a specific disease, but a general state of neurological stress.
+
+Research Question
+- Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
+
+
 
 
 
