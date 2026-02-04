@@ -57,6 +57,8 @@ Core distinction:
 Research question
 - Do gastric microbiome diversity and taxonomic composition differ between intestinal and diffuse gastric cancer subtypes?
 
+
+
 Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
 
 Gap / novelty
@@ -86,6 +88,8 @@ Rationale
 Research question
 - Is NSAID (Non-steroidal anti-inflammatory drug) use associated with distinct gut microbiome composition in MS patients, and does it contribute to observed differences vs healthy controls?
 
+
+
 Multiple sclerosis: sex, hormones, and the gut microbiome
 
 Gap / novelty
@@ -100,6 +104,8 @@ Rationale
   
 Research question
 - Does gut microbiome composition and diversity differ between male and female MS patients?
+
+
 
 Alcohol Consumption
 
@@ -119,9 +125,10 @@ Background
 Research question
 - Does smoking status modify the association between alcohol consumption and oral microbiome diversity and composition? (ie is the effect of alcohol different in smokers vs non-smokers)
 
-
 Research question
 - Does smoking status modify the association between alcohol consumption and oral microbiome diversity and composition? (ie is the effect of alcohol different in smokers vs non-smokers)
+
+
 
 Possible Neuro-Imbalances Within Different Disorders: 
 
@@ -135,6 +142,12 @@ Research Question
 - Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
 
 
+The Geography of the "Alcohol Microbiome"
+Datasets: 22 (Alcohol - China, Norway).
+The Idea: Alcohol consumption is often studied within a single culture. Since you have datasets from China and Norway, you can perform a Cross-Cultural Validation.
+Novelty: Does alcohol consumption (grams per day) shift the microbiome in the same way in a Norwegian gut as it does in a Chinese oral/gut microbiome?
+Potential Finding: Identifying whether a "dysbiotic" alcohol signature is a global biological fact or a culture-specific phenomenon.
+Question: To what extent does the "alcohol-associated microbiome" (defined by high grams-per-day consumption) remain consistent across geographically and culturally distinct cohorts (China vs. Norway), and do these shifts primarily affect taxonomic diversity or specific functional pathways?
 
 
 
