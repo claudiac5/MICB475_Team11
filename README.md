@@ -181,6 +181,9 @@ Key research directions include:
 
 Overall, the goal is to use real-world infant exposure and health variables to generate testable hypotheses about microbial ecology in early life and how microbiome development may relate to health outcomes.
 
+## Infant Microbiome
+Does early antibiotic exposure influence infant gut microbiome maturation and appetite-related behaviours, and do these effects differ between male and female infants?
+
 
 # Agenda - February 4
 - Present our chosen dataset 
