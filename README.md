@@ -111,7 +111,8 @@ Research question
 - Does smoking status modify the association between alcohol consumption and oral microbiome diversity and composition? (ie is the effect of alcohol different in smokers vs non-smokers)
 
 Research question
-- Does smoking status modify the association between alcohol consumption and oral microbiome diversity and composition? (ie is the effect of alcohol different in smokers vs non-smokers)
+- Does alcohol consumption affect the oral microbiome differently in men versus women?
+- 
 
 ## ART and microbiome
 
