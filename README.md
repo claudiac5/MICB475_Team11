@@ -172,11 +172,11 @@ Research Question
 This project uses an infant health and exposure metadata dataset to ask microbiology-focused questions about how early-life factors shape the gut microbiome. Although the dataset is primarily metadata (e.g., delivery mode, feeding type, antibiotic exposure, symptoms, and growth/appetite measures), each sample can be linked to microbiome sequencing outputs (e.g., 16S rRNA or shotgun profiles) using `#SampleID`. By combining metadata with microbial community data, we can test how specific exposures are associated with changes in microbial diversity, community composition, and the relative abundance of key taxa.
 
 Key research directions include:
-- **Early-life exposures → microbiome:** Do delivery mode (C-section vs vaginal) and antibiotic exposure predict reduced microbial diversity or shifts in taxa such as *Bifidobacterium*?
-- **Diet/feeding → microbiome:** Does feeding type relate to the dominance of milk-adapted microbes and overall community structure?
-- **Symptoms/illness → microbiome signatures:** Are gastrointestinal symptoms (colic, diarrhea) associated with distinct microbiome profiles or dysbiosis-like patterns?
-- **Allergy/immune outcomes → microbiome:** Do infant or maternal allergy indicators correspond to differences in microbiome diversity or immunomodulatory taxa?
-- **Growth/body composition → microbes:** Is infant growth (e.g., weight-for-length z-scores) associated with microbiome “maturity,” diversity, or specific microbial patterns?
+- **Early-life exposures -> microbiome:** Do delivery mode (C-section vs vaginal) and antibiotic exposure predict reduced microbial diversity or shifts in taxa such as *Bifidobacterium*?
+- **Diet/feeding -> microbiome:** Does feeding type relate to the dominance of milk-adapted microbes and overall community structure?
+- **Symptoms/illness -> microbiome signatures:** Are gastrointestinal symptoms (colic, diarrhea) associated with distinct microbiome profiles or dysbiosis-like patterns?
+- **Allergy/immune outcomes -> microbiome:** Do infant or maternal allergy indicators correspond to differences in microbiome diversity or immunomodulatory taxa?
+- **Growth/body composition -> microbes:** Is infant growth (e.g., weight-for-length z-scores) associated with microbiome “maturity,” diversity, or specific microbial patterns?
 - **Family/shared environment:** Do related individuals (same household) have more similar microbiomes than unrelated individuals, suggesting microbial sharing?
 
 Overall, the goal is to use real-world infant exposure and health variables to generate testable hypotheses about microbial ecology in early life and how microbiome development may relate to health outcomes.
