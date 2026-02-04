@@ -159,10 +159,10 @@ Possible confounders: Age, Gender, H. pylori test, Site
 ## Possible Neuro-Imbalances Within Different Disorders: 
 
 Background / Novelty
-- Most UJEMI papers focus on a single disease. This project would compare the gut-brain axis across three distinct neurological/psychiatric conditions.
-- This is novel because we are NOT asking "What is the PD microbiome?", but instead "Is there a shared 'neuro-inflammatory' metabolic signature?" 
-- We will use the "Depression" dataset as a baseline for mental health and see if those same markers appear in the MS and Parkinson’s cohorts.
-- We hope to find certain "pro-inflammatory" metabolic signals that are common in both (eg: copper and potassium), suggesting that the microbiome doesn't just reflect a specific disease, but a general state of neurological stress.
+- Most of the previous UJEMI papers focused on a single disease, but for this project, we will look at two different neurological conditions/disorders and compare the metabolic signatures found in them. 
+- Instead of focusing on what makes up and categorizes each disorder, we will instead look at the shared 'neuro-inflammatory' metabolic signatures.
+- We will use the "Depression" dataset as a baseline for mental health and see if those same markers appear in the Parkinsons dataset
+- We will focus on certain "pro-inflammatory" metabolic signals that are common in both (eg: copper and potassium), which we hope will suggest that the microbiome doesn't just reflect a specific disease, but a general state of neurological stress.
 
 Research Question
 - Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
