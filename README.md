@@ -141,13 +141,6 @@ Background / Novelty
 Research Question
 - Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
 
-
-
-
-# Agenda - February 4
-- Present our chosen dataset 
-- Propose potential research questions and areas of exploration
-
 Possible Project Ideas (Andy)
 
 10.1186/s40168-023-01718-4
@@ -172,4 +165,11 @@ esterol triglycerides) explain microbiome variations independent of cancer stage
 -	Total Cholesterol
 -	Triglyceride
 Possible confounders: Age, Gender, H. pylori test, Site
+
+
+# Agenda - February 4
+- Present our chosen dataset 
+- Propose potential research questions and areas of exploration
+
+
 
