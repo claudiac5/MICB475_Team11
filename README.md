@@ -156,10 +156,6 @@ Do metabolic markers (like glucose, cholesterol triglycerides) explain microbiom
 Possible confounders: Age, Gender, H. pylori test, Site
 
 
-# Agenda - February 4
-- Present our chosen dataset 
-- Propose potential research questions and areas of exploration
-
 #### Possible Neuro-Imbalances Within Different Disorders: 
 
 Background / Novelty
@@ -184,6 +180,11 @@ Key research directions include:
 - **Family/shared environment:** Do related individuals (same household) have more similar microbiomes than unrelated individuals, suggesting microbial sharing?
 
 Overall, the goal is to use real-world infant exposure and health variables to generate testable hypotheses about microbial ecology in early life and how microbiome development may relate to health outcomes.
+
+
+# Agenda - February 4
+- Present our chosen dataset 
+- Propose potential research questions and areas of exploration
 
 
 
