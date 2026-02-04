@@ -57,6 +57,7 @@ Core distinction:
 Research question
 - Do gastric microbiome diversity and taxonomic composition differ between intestinal and diffuse gastric cancer subtypes?
 
+** Focus on Lauren's classification 
 
 
 ## Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
@@ -74,6 +75,8 @@ Key background (tumor location)
 Research question
 - Does tumor location (cardia vs non-cardia) associate with distinct gastric mucosal microbiome community structure and taxa?
 
+** Focus on tumor location
+
 ## Multiple sclerosis: NSAID use as a microbiome confounder
 
 Gap / novelty
@@ -87,24 +90,6 @@ Rationale
   
 Research question
 - Is NSAID (Non-steroidal anti-inflammatory drug) use associated with distinct gut microbiome composition in MS patients, and does it contribute to observed differences vs healthy controls?
-
-
-
-## Multiple sclerosis: sex, hormones, and the gut microbiome
-
-Gap / novelty
-- MS is ~2–3× more common in women
-- Sex hormones shape gut microbiota
-- Original MS microbiome studies rarely stratify by sex or hormonal factors
-- iMSMS metadata allows stratification by sex and oral contraceptive use
-  
-Rationale
-- Pregnancy and exogenous estrogens alter the microbiome
-- Hormonal effects may influence SCFA producers or immune-modulating taxa
-  
-Research question
-- Does gut microbiome composition and diversity differ between male and female MS patients?
-
 
 
 ## Alcohol Consumption
