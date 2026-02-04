@@ -38,7 +38,7 @@ Week 4 - brainstorm potential topics
 Week 6 - proposal due
 
 ### Pitches 
-#Gastric cancer: Lauren histological subtypes and the microbiome
+# Gastric cancer: Lauren histological subtypes and the microbiome
 
 Gap / novelty
 - Wang et al. grouped all gastric cancers together and did not stratify by Lauren classification
@@ -59,7 +59,7 @@ Research question
 
 
 
-#Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
+# Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
 
 Gap / novelty
 - Wang et al. did not analyze microbiome differences by tumor location
@@ -74,7 +74,7 @@ Key background (tumor location)
 Research question
 - Does tumor location (cardia vs non-cardia) associate with distinct gastric mucosal microbiome community structure and taxa?
 
-Multiple sclerosis: NSAID use as a microbiome confounder
+# Multiple sclerosis: NSAID use as a microbiome confounder
 
 Gap / novelty
 - Many MS patients use NSAIDs for pain
@@ -90,7 +90,7 @@ Research question
 
 
 
-#Multiple sclerosis: sex, hormones, and the gut microbiome
+# Multiple sclerosis: sex, hormones, and the gut microbiome
 
 Gap / novelty
 - MS is ~2–3× more common in women
@@ -107,7 +107,7 @@ Research question
 
 
 
-#Alcohol Consumption
+# Alcohol Consumption
 
 Background 
 - Drinking alcohol is associated with variation in human oral microbiome (Fan et al., 2018)
@@ -130,7 +130,7 @@ Research question
 
 
 
-#Possible Neuro-Imbalances Within Different Disorders: 
+# Possible Neuro-Imbalances Within Different Disorders: 
 
 Background / Novelty
 - Most UJEMI papers focus on a single disease. This project would compare the gut-brain axis across three distinct neurological/psychiatric conditions.
