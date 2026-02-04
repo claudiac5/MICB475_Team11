@@ -38,7 +38,7 @@ Week 4 - brainstorm potential topics
 Week 6 - proposal due
 
 ### Pitches 
-Gastric cancer: Lauren histological subtypes and the microbiome
+#Gastric cancer: Lauren histological subtypes and the microbiome
 
 Gap / novelty
 - Wang et al. grouped all gastric cancers together and did not stratify by Lauren classification
@@ -59,7 +59,7 @@ Research question
 
 
 
-Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
+#Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
 
 Gap / novelty
 - Wang et al. did not analyze microbiome differences by tumor location
@@ -90,7 +90,7 @@ Research question
 
 
 
-Multiple sclerosis: sex, hormones, and the gut microbiome
+#Multiple sclerosis: sex, hormones, and the gut microbiome
 
 Gap / novelty
 - MS is ~2–3× more common in women
@@ -107,7 +107,7 @@ Research question
 
 
 
-Alcohol Consumption
+#Alcohol Consumption
 
 Background 
 - Drinking alcohol is associated with variation in human oral microbiome (Fan et al., 2018)
@@ -130,7 +130,7 @@ Research question
 
 
 
-Possible Neuro-Imbalances Within Different Disorders: 
+#Possible Neuro-Imbalances Within Different Disorders: 
 
 Background / Novelty
 - Most UJEMI papers focus on a single disease. This project would compare the gut-brain axis across three distinct neurological/psychiatric conditions.
@@ -140,14 +140,6 @@ Background / Novelty
 
 Research Question
 - Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
-
-
-The Geography of the "Alcohol Microbiome"
-Datasets: 22 (Alcohol - China, Norway).
-The Idea: Alcohol consumption is often studied within a single culture. Since you have datasets from China and Norway, you can perform a Cross-Cultural Validation.
-Novelty: Does alcohol consumption (grams per day) shift the microbiome in the same way in a Norwegian gut as it does in a Chinese oral/gut microbiome?
-Potential Finding: Identifying whether a "dysbiotic" alcohol signature is a global biological fact or a culture-specific phenomenon.
-Question: To what extent does the "alcohol-associated microbiome" (defined by high grams-per-day consumption) remain consistent across geographically and culturally distinct cohorts (China vs. Norway), and do these shifts primarily affect taxonomic diversity or specific functional pathways?
 
 
 
