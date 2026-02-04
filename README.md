@@ -144,7 +144,7 @@ Research Question
 
 
 
-# Agenda - Feburary 4
+# Agenda - February 4
 - Present our chosen dataset 
 - Propose potential research questions and areas of exploration
 
