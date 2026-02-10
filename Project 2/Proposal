@@ -1,0 +1,151 @@
+# Team Proposal
+
+## Proposed Title
+
+*(One concise sentence summarizing the hypothesis and aims; non‑conclusive wording, e.g. starting with “Investigating…”, “Assessing…”, “Characterizing…”)*
+
+---
+
+## 1. Introduction and Background
+
+### Topic and Importance
+
+* Briefly introduce the **true focus** of the project (e.g., disease, condition, exposure, phenotype).
+* Explain why this topic is biologically, clinically, or societally important.
+
+### Key Definitions and Data Classification
+
+* Define key terms required to understand the project.
+* Describe any **data binning or categorization** (e.g., age cutoffs, disease subtypes, exposure groups) and justify choices.
+
+### Dataset Description
+
+* Dataset source (original study/authors).
+* Sample type (e.g., stool, tissue, saliva).
+* Approximate number of samples.
+* Where and how samples were collected.
+
+### Current Knowledge and Literature Context
+
+* Summarize what is already known from:
+
+  * Original dataset publication
+  * Relevant UJEMI(+)
+  * Other peer‑reviewed literature
+* Highlight **common trends** across studies rather than listing individual results.
+
+### Research Gap
+
+* Clearly state what is **unknown, understudied, or unresolved**.
+* Explicitly connect the gap to your proposed project.
+
+---
+
+## 2. Hypothesis or Prediction
+
+### Research Question
+
+* State a clear, focused research question.
+
+### Hypothesis or Prediction
+
+* Hypothesis (for hypothesis‑driven projects) **or** prediction (for exploratory projects).
+
+### Rationale
+
+* Explain *why* this hypothesis/prediction is reasonable.
+* Synthesize evidence from the Introduction and supporting literature.
+* Explicitly connect taxa, functions, or patterns to biological mechanisms.
+
+---
+
+## 3. Experimental Aims and Rationale
+
+### Aim 1: *Aim Title*
+
+* Biological question addressed
+* How achieving this aim helps answer the research question
+
+### Aim 2: *Aim Title*
+
+* Biological question addressed
+* How achieving this aim helps answer the research question
+
+### Aim 3: *Aim Title (if applicable)*
+
+* Biological question addressed
+* How achieving this aim helps answer the research question
+
+---
+
+## 4. Proposed Approach
+
+*(Provide a table. Add or remove rows/columns as needed.)*
+
+| Component                                 | Aim 1 | Aim 2 | Aim 3 |
+| ----------------------------------------- | ----- | ----- | ----- |
+| Do you plan to use all samples? (Yes/No)  |       |       |       |
+| Data filtering (if no)                    |       |       |       |
+| Samples included/excluded                 |       |       |       |
+| Major analyses                            |       |       |       |
+| Key analysis steps (point form; no stats) |       |       |       |
+| Statistical tests (name + R function)     |       |       |       |
+| Significance cutoffs                      |       |       |       |
+| Visualization approach                    |       |       |       |
+| Software & packages (with citations)      |       |       |       |
+
+---
+
+## 5. Dataset Overview
+
+*(Based on QIIME2 processing up to rarefaction)*
+
+* Number of samples before and after filtering
+* Sequencing depth distribution
+* Truncation parameters (with justification)
+* Rarefaction depth (with justification)
+
+### Summary Table
+
+*(Insert table here)*
+
+### Figures
+
+* Figure 1: Rarefaction curves
+* Figure 2: Sequencing depth distribution
+
+---
+
+## 6. Participation Report
+
+| Team Member | Proposal Contribution | Planned Analysis Role |
+| ----------- | --------------------- | --------------------- |
+|             |                       |                       |
+|             |                       |                       |
+|             |                       |                       |
+
+---
+
+## 7. References
+
+* Follow **ASM citation style** for in‑text citations and reference list.
+* Include citations for:
+
+  * Datasets
+  * Analysis tools (QIIME2, R, RStudio)
+  * R packages (use `citation()` in R)
+
+**Required citations**:
+
+* QIIME2: Bolyen et al., 2019, *Nature Biotechnology*
+* R Core Team (year)
+* RStudio Team (year)
+
+---
+
+## Notes for GitHub
+
+* Save as `Team_Proposal.md` or `Team_Proposal.txt`
+* Keep figures in a `/figures` folder
+* Keep tables in `/tables` if large
+* Final submission will be exported to PDF and Word
