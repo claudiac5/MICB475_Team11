@@ -275,10 +275,14 @@ Keep in mind:
   - If we hit a point about filtering/trimming
     - Email Bessie with the graph to make sure it's good
   - Make a habit of making a screen
- 
+
+# Agenda - February 11
 <ins>FOR NEXT MEETING:</ins>
 - Read over the proposal before the next meeting
 - Find literature research on the different types
   - Literature on why we think the microbiome will drive different cancer subtypes?
   - Better understanding of tissue sites and whatnot for our project
 - Take a good look at what we are controlling for (male vs female, etc.)
+
+
+
