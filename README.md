@@ -276,7 +276,6 @@ Keep in mind:
     - Email Bessie with the graph to make sure it's good
   - Make a habit of making a screen
 
-# Agenda - February 11
 <ins>FOR NEXT MEETING:</ins>
 - Read over the proposal before the next meeting
 - Find literature research on the different types
@@ -284,5 +283,8 @@ Keep in mind:
   - Better understanding of tissue sites and whatnot for our project
 - Take a good look at what we are controlling for (male vs female, etc.)
 
-
+# Agenda - February 11
+-  Discuss literature research on the different types/  why we think the microbiome will drive different cancer subtypes?
+- Discuss our controls (male vs female, etc.)
+- Discuss next steps for proposal 
 
