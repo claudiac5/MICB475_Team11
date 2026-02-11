@@ -28,3 +28,13 @@ Account for confounders like H. pylori and age and there should be a thread to p
 (Chronic H. Pylori is huge risk factor and is carcinogenic to humans)
 https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet
 
+**Why would microbiome and cancer subtypes be associated?**
+
+Diffuse adenocarcinomas undifferntiated cell types and aggressiveness may be linked to lower microbiota diversity. It also has much poorer immune cell invasion.
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC7888145/)
+
+Intestinal tumors are arranged in tubular/glandular structures, and often associated with intestinal metaplasia (esophagus/stomach tissue remodeled to look like intestine, often precancerous condition).
+Associated with lymph/vascular invasion, and scattered lesions. Also enriched in elderly men, and affecting the gastric antum. 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4840723/#b1-ol-0-0-4337
+
+Because of these patterns, differences in how they arise, and local tumor microenvironment's impact on the microbial niches, it would be expected that some association could be found. 
