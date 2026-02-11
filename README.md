@@ -286,5 +286,9 @@ Keep in mind:
 # Agenda - February 11
 -  Discuss literature research on the different types/  why we think the microbiome will drive different cancer subtypes?
 - Discuss our controls (male vs female, etc.)
-- Discuss next steps for proposal 
+- Discuss next steps for proposal
+
+## Research question: How do gastric microbiome diversity and overall taxonomic composition differ between intestinal and diffuse gastric cancer subtypes?
+- Healthy vs Cancer: Compare each subtype against healthy controls  to identify general tumor-associated shifts.
+- Compare subtypes pairwise To test hypotheses of subtype-specific microbiomes.
 
