@@ -30,3 +30,34 @@ qiime tools import \
 qiime demux summarize \
   --i-data 1_import/demux_seqs.qza \
   --o-visualization 1_import/demux_summary.qzv
+
+
+
+# DADA2 denoise (single-end; trunc-len=0 = no truncation)
+# screen -S dada2_run2
+# cd /data/project2_gastric_cancer_qiime2
+qiime dada2 denoise-single \
+  --i-demultiplexed-seqs 1_import/demux_seqs.qza \
+  --p-trim-left 0 \
+  --p-trunc-len 0 \
+  --o-representative-sequences 2_dada2/rep-seqs.qza \
+  --o-table 2_dada2/table.qza \
+  --o-denoising-stats 2_dada2/stats.qza
+
+# summarize feature table after denoising (sample counts + depth distribution)
+qiime feature-table summarize \
+  --i-table 2_dada2/table.qza \
+  --o-visualization 2_dada2/table_summary.qzv \
+  --m-sample-metadata-file 0_inputs/metadata.tsv
+
+# view DADA2 denoising stats table
+qiime metadata tabulate \
+  --m-input-file 2_dada2/stats.qza \
+  --o-visualization 2_dada2/denoising_stats.qzv
+
+# view representative sequences (ASVs)
+qiime feature-table tabulate-seqs \
+  --i-data 2_dada2/rep-seqs.qza \
+  --o-visualization 2_dada2/rep_seqs.qzv
+
+
