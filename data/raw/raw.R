@@ -61,3 +61,53 @@ qiime feature-table tabulate-seqs \
   --o-visualization 2_dada2/rep_seqs.qzv
 
 
+# assign taxonomy using pretrained SILVA V4 classifier (matches primers in paper: 515F/806R)
+qiime feature-classifier classify-sklearn \
+  --i-classifier /datasets/classifiers/silva-138-99-515-806-nb-classifier.qza \
+  --i-reads 2_dada2/rep-seqs.qza \
+  --o-classification 3_taxonomy/taxonomy.qza
+
+# taxonomy table visualization
+qiime metadata tabulate \
+  --m-input-file 3_taxonomy/taxonomy.qza \
+  --o-visualization 3_taxonomy/taxonomy.qzv
+
+# taxa barplots (quick overview of composition by metadata columns)
+qiime taxa barplot \
+  --i-table 2_dada2/table.qza \
+  --i-taxonomy 3_taxonomy/taxonomy.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --o-visualization 3_taxonomy/taxa_barplot.qzv
+
+
+########################################
+# 3) FILTERING
+########################################
+
+# (required) remove mitochondria/chloroplast features
+qiime taxa filter-table \
+  --i-table 2_dada2/table.qza \
+  --i-taxonomy 3_taxonomy/taxonomy.qza \
+  --p-exclude mitochondria,chloroplast \
+  --o-filtered-table 4_filtering/table_no_mito_chloro.qza
+
+# (optional but recommended) summarize after mito/chloro filtering
+qiime feature-table summarize \
+  --i-table 4_filtering/table_no_mito_chloro.qza \
+  --o-visualization 4_filtering/table_no_mito_chloro.qzv \
+  --m-sample-metadata-file 0_inputs/metadata.tsv
+
+# (metadata-based filtering for our research question)
+# keep only gastric cancer (GC) samples AND only Lauren intestinal vs diffused subtypes
+qiime feature-table filter-samples \
+  --i-table 4_filtering/table_no_mito_chloro.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --p-where "[Group]='Gastric cancer (GC)' AND [Histopathology      (lauren classification)] IN ('Intestinal type','Diffused type')" \
+  --o-filtered-table 4_filtering/table_gc_intestinal_diffuse.qza
+
+# summarize the final analysis table (this is the table you’ll use for rarefaction/tree)
+qiime feature-table summarize \
+  --i-table 4_filtering/table_gc_intestinal_diffuse.qza \
+  --o-visualization 4_filtering/table_gc_intestinal_diffuse.qzv \
+  --m-sample-metadata-file 0_inputs/metadata.tsv
+
