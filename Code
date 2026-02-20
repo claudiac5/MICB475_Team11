@@ -111,3 +111,20 @@ qiime feature-table summarize \
   --o-visualization 4_filtering/table_gc_intestinal_diffuse.qzv \
   --m-sample-metadata-file 0_inputs/metadata.tsv
 
+# build rooted phylogenetic tree (required for phylogenetic diversity + UniFrac)
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences 2_dada2/rep-seqs.qza \
+  --o-alignment 5_tree_rarefaction/aligned-rep-seqs.qza \
+  --o-masked-alignment 5_tree_rarefaction/masked-aligned-rep-seqs.qza \
+  --o-tree 5_tree_rarefaction/unrooted-tree.qza \
+  --o-rooted-tree 5_tree_rarefaction/rooted-tree.qza
+
+qiime diversity alpha-rarefaction \
+  --i-table 4_filtering/table_gc_intestinal_diffuse.qza \
+  --i-phylogeny 5_tree_rarefaction/rooted-tree.qza \
+  --p-max-depth 40000 \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --o-visualization 5_tree_rarefaction/alpha_rarefaction_gc_int_diff_40k.qzv
+
+
+
