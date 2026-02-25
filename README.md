@@ -383,6 +383,12 @@ A sampling depth of **10,222 reads** was selected based on curve stabilization a
 
 ![Alpha Rarefaction Curve](Project2%20copy/Screenshot%202026-02-25%20at%2010.11.49%20AM.png)
 
+## next steps
+- Aim 1 – Community Diversity (Alpha diversity and beta diversity) 
+- Aim 2 – Differential Taxa (Agglomerate to genus level) 
+- Aim 3 – Sex Interaction (Alpha diversity and beta diversity: subtype * sex)
+- Aim 4 – Functional Prediction (PICRUSt2 and Map to MetaCyc pathways)
+
 
 
 
