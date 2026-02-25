@@ -337,7 +337,7 @@ Confirm final sample subset:
 
 - Intestinal vs Diffused type
 
-- N = 45 (15 intestinal, 30 diffuse
+- N = 45 (15 intestinal, 30 diffuse)
 
 ## QIIME2 Preprocessing
 
@@ -369,8 +369,8 @@ Filtered to:
 
 ### 1. Forward Read Quality Profile
 
-The forward-read quality plot was inspected prior to denoising.  
-Quality scores remained high across the read length, therefore no truncation was applied during DADA2 denoising.
+The forward-read quality plot was inspected before denoising.  
+Quality scores remained high across the read length, so no truncation was applied during DADA2 denoising.
 ![Demultiplexing summary](images/Demux.png)
 
 ### 2. Alpha Rarefaction Curve
@@ -385,8 +385,3 @@ A sampling depth of **10,222 reads** was selected based on curve stabilization a
 - Aim 2 – Differential Taxa (Agglomerate to genus level) 
 - Aim 3 – Sex Interaction (Alpha diversity and beta diversity: subtype * sex)
 - Aim 4 – Functional Prediction (PICRUSt2 and Map to MetaCyc pathways)
-
-
-
-
-
