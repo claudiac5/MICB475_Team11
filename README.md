@@ -325,4 +325,53 @@ We hypothesize that there will be **compositional and functional differences** b
 - Explicitly describe **differences between diffuse**
 
 
+# Agenda - February 25
+
+## Restate research question:
+
+- How do gastric microbiome diversity and taxonomic composition differ between intestinal and diffuse gastric cancer subtypes, and does biological sex modify these subtype-associated microbiome patterns?
+
+Confirm final sample subset:
+
+- GC only
+
+- Intestinal vs Diffused type
+
+- N = 45 (15 intestinal, 30 diffuse
+
+## QIIME2 Preprocessing
+
+- Demultiplex summary + quality inspection
+
+- DADA2 denoise-single (no truncation)
+
+Generated:
+
+- Feature table (ASVs)
+
+- Denoising stats
+
+- Assigned taxonomy using SILVA
+
+- Removed mitochondria/chloroplast
+
+Filtered to:
+
+- Group = Gastric cancer (GC)
+
+- Histopathology = Intestinal type or Diffused type
+
+## Dataset Summary
+- ASVs after denoising: ~20,750
+- Final subset size: 45 samples
+- Rarefaction depth chosen: 10,222
+- 43/45 samples retained after rarefaction
+
+
+
+
+
+
+
+
 
