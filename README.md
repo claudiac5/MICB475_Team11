@@ -373,6 +373,7 @@ Filtered to:
 The forward-read quality plot was inspected prior to denoising.  
 Quality scores remained high across the read length, therefore no truncation was applied during DADA2 denoising.
 
+
 ![Forward Read Quality](Project2%20copy/Screenshot%202026-02-25%20at%2010.11.40%20AM.png)
 
 ### 2. Alpha Rarefaction Curve
@@ -381,7 +382,6 @@ Alpha rarefaction curves were generated on the filtered GC intestinal vs diffuse
 A sampling depth of **10,222 reads** was selected based on curve stabilization and sample retention (43/45 samples retained).
 
 ![Alpha Rarefaction Curve](Project2%20copy/Screenshot%202026-02-25%20at%2010.11.49%20AM.png)
-
 
 
 
