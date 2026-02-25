@@ -348,18 +348,17 @@ Confirm final sample subset:
 Generated:
 
 - Feature table (ASVs)
-
 - Denoising stats
-
 - Assigned taxonomy using SILVA
-
 - Removed mitochondria/chloroplast
+-  Built a rooted phylogenetic tree
 
 Filtered to:
 
 - Group = Gastric cancer (GC)
 
 - Histopathology = Intestinal type or Diffused type
+
 
 ## Dataset Summary
 - ASVs after denoising: ~20,750
