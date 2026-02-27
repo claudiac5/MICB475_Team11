@@ -12,7 +12,7 @@
 
 ## Lab Notebook 
 ### Data Processing 
-- [P01](./Notebook/P01.Rmd) - QIIME 2 Demultiplexing
+- [P01](./Notebook/P01.md) - QIIME 2 Demultiplexing
 - P02 - QIIME 2 Denoising and Clustering
 - P03 - QIIME 2 Taxonomic Analysis
 - P04 - QIIME 2 Alpha-rarefaction
