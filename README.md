@@ -1,8 +1,5 @@
 # MICB475_Team11
 
-## Timeline 
-<img width="802" height="406" alt="Screenshot 2026-02-27 at 11 30 46 AM" src="https://github.com/user-attachments/assets/7f5d96da-f82e-46be-8ca5-c59562d005d7" />
-
 ## Agenda and Meeting Minutes 
 ### January 
 [Jan 28](./Meeting%20Minutes/Jan%2028.md) 
@@ -15,7 +12,7 @@
 
 ## Lab Notebook 
 ### Data Processing 
-- P01 - QIIME 2 Demultiplexing
+- [P01](./Notebook/P01.Rmd) - QIIME 2 Demultiplexing
 - P02 - QIIME 2 Denoising and Clustering
 - P03 - QIIME 2 Taxonomic Analysis
 - P04 - QIIME 2 Alpha-rarefaction
