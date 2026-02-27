@@ -174,3 +174,35 @@ qiime diversity beta-group-significance \
   --o-visualization 6_core_metrics/unweighted_unifrac_diffuse_vs_intestinal_permanova.qzv
 
 
+# create export folder for downstream R analysis
+cd /data/project2_gastric_cancer_qiime2
+mkdir -p 7_export_for_R
+
+# export filtered feature table (GC intestinal vs diffuse subset)
+qiime tools export \
+  --input-path 4_filtering/table_gc_intestinal_diffuse.qza \
+  --output-path 7_export_for_R/table_gc_intestinal_diffuse_export
+
+# convert BIOM feature table to TSV for R import
+biom convert \
+  -i 7_export_for_R/table_gc_intestinal_diffuse_export/feature-table.biom \
+  -o 7_export_for_R/feature_table_gc_intestinal_diffuse.tsv \
+  --to-tsv
+
+# export taxonomy assignments (SILVA)
+qiime tools export \
+  --input-path 3_taxonomy/taxonomy.qza \
+  --output-path 7_export_for_R/taxonomy_export
+
+# move exported taxonomy file to main export folder
+mv 7_export_for_R/taxonomy_export/taxonomy.tsv \
+   7_export_for_R/taxonomy.tsv
+
+# export rooted phylogenetic tree (required for UniFrac + Faith’s PD in R)
+qiime tools export \
+  --input-path 5_tree_rarefaction/rooted-tree.qza \
+  --output-path 7_export_for_R/tree_export
+
+# copy metadata file used for filtering and analysis
+cp 0_inputs/metadata.tsv 7_export_for_R/metadata.tsv
+
