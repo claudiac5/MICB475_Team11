@@ -19,9 +19,9 @@
 - [P05](./Notebook/P05.Rmd) - QIIME 2 Diversity Analysis
 
 ### Data Analysis  
-- P06 - Aim 1: Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
-- P07 - Aim 2: Identify the Specific Bacteria that Best Distinguish Intestinal vs Diffuse Cancers
-- P08 - Aim 3: Functional Analysis and Profiling of Microbial Communities Within Subtypes
+- [P06](./Notebook/P06.Rmd) - Aim 1: Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
+- [P07](./Notebook/P07.Rmd) - Aim 2: Identify the Specific Bacteria that Best Distinguish Intestinal vs Diffuse Cancers
+- [P08](./Notebook/P08.Rmd) - Aim 3: Functional Analysis and Profiling of Microbial Communities Within Subtypes
 
 ## Final Script 
 ### QIIME 2
