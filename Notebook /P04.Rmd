@@ -1,6 +1,0 @@
----
-title: "P04"
-output: html_document
----
-
-QIIME 2 Alpha-rarefaction

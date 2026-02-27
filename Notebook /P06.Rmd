@@ -1,6 +1,0 @@
----
-title: "P06"
-output: html_document
----
-
-Phyloseq and Rarecurve
