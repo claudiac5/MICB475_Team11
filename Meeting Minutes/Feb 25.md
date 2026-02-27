@@ -1,3 +1,65 @@
+# Agenda - February 25
+
+## Restate research question:
+
+- How do gastric microbiome diversity and taxonomic composition differ between intestinal and diffuse gastric cancer subtypes, and does biological sex modify these subtype-associated microbiome patterns?
+
+Confirm final sample subset:
+
+- GC only
+
+- Intestinal vs Diffused type
+
+- N = 45 (15 intestinal, 30 diffuse)
+
+## QIIME2 Preprocessing
+
+- Demultiplex summary + quality inspection
+
+- DADA2 denoise-single (no truncation)
+
+Generated:
+
+- Feature table (ASVs)
+- Denoising stats
+- Assigned taxonomy using SILVA
+- Removed mitochondria/chloroplast
+-  Built a rooted phylogenetic tree
+
+Filtered to:
+
+- Group = Gastric cancer (GC)
+
+- Histopathology = Intestinal type or Diffused type
+
+
+## Dataset Summary
+- ASVs after denoising: ~20,750
+- Final subset size: 45 samples
+- Rarefaction depth chosen: 10,222
+- 43/45 samples retained after rarefaction
+
+
+### 1. Forward Read Quality Profile
+
+The forward-read quality plot was inspected before denoising.  
+Quality scores remained high across the read length, so no truncation was applied during DADA2 denoising.
+![Demultiplexing summary](images/Demux.png)
+
+### 2. Alpha Rarefaction Curve
+
+Alpha rarefaction curves were generated on the filtered GC intestinal vs diffuse subset.  
+A sampling depth of **10,222 reads** was selected based on curve stabilization and sample retention (43/45 samples retained).
+
+![Alpha rarefaction curve](images/Rarefaction.png)
+
+## next steps
+- Aim 1 – Community Diversity (Alpha diversity and beta diversity) 
+- Aim 2 – Differential Taxa (Agglomerate to genus level) 
+- Aim 3 – Sex Interaction (Alpha diversity and beta diversity: subtype * sex)
+- Aim 4 – Functional Prediction (PICRUSt2 and Map to MetaCyc pathways)
+
+
 # Meeting Minutes Feb 25th, 2026
 
 ### Agenda for the day:
