@@ -5,19 +5,13 @@
 
 ## Agenda and Meeting Minutes 
 ### January 
-- [Jan 28](./Meeting%20Minutes/Jan%2028.md) 
+[Jan 28](./Meeting%20Minutes/Jan%2028.md) 
 
 ### February 
-- Feb 4
-- Feb 11 
-- Feb 18 
-- Feb 25 
+[Feb 4](./Meeting%20Minutes/Feb%204.md) | [Feb 11](./Meeting%20Minutes/Feb%2011.md) | [Feb 25](./Meeting%20Minutes/Feb%2025.md) 
 
 ### March 
-- Mar 4 
-- Mar 11 
-- Mar 18 
-- Mar 25 
+[Mar 4](./Meeting%20Minutes/Mar%204.md) | [Mar 11](./Meeting%20Minutes/Feb%2011.md) | [Mar 18](./Meeting%20Minutes/Feb%2018.md) | [Mar 25](./Meeting%20Minutes/Feb%2025.md) 
 
 ## Lab Notebook 
 ### Data Processing 
