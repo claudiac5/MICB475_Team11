@@ -16,7 +16,7 @@
 - [P02](./Notebook/P02.md) - QIIME 2 Denoising and Clustering
 - P03 - QIIME 2 Taxonomic Analysis
 - P04 - QIIME 2 Alpha-rarefaction
-- P05 - QIIME 2 Diversity Analysis
+- [P05](./Notebook/P05.md) - QIIME 2 Diversity Analysis
 
 ### Data Analysis  
 - P06 - Aim 1: Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
