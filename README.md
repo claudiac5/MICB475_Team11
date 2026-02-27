@@ -25,7 +25,7 @@
 
 ## Final Script 
 ### QIIME 2
-- [Data Processing](./QIIME2/Codes/Code.py)
+- [Data Processing](./QIIME2/Codes/Code) 
 
 ### R
 - Aim 1:
