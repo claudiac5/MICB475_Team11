@@ -1,4 +1,4 @@
-# Meeting Minutes - January 28, 2026 
+# Meeting Minutes - January 28
 ### Introduction to Weekly Team Meetings 
 - We will lead discussion using your agenda
 - Take notes, discussion points, action items etc to put on github 
