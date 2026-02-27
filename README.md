@@ -1,5 +1,47 @@
 # MICB475_Team11
 
+## Timeline 
+<img width="802" height="406" alt="Screenshot 2026-02-27 at 11 30 46 AM" src="https://github.com/user-attachments/assets/7f5d96da-f82e-46be-8ca5-c59562d005d7" />
+
+## Agenda and Meeting Minutes 
+### January 
+- Jan 28 
+
+### February 
+- Feb 4
+- Feb 11 
+- Feb 18 
+- Feb 25 
+
+### March 
+- Mar 4 
+- Mar 11 
+- Mar 18 
+- Mar 25 
+
+## Lab Notebook 
+### Data Processing 
+- P01 - QIIME 2 Demultiplexing
+- P02 - QIIME 2 Denoising and Clustering
+- P03 - QIIME 2 Taxonomic Analysis
+- P04 - QIIME 2 Alpha-rarefaction
+- P05 - QIIME 2 Diversity Analysis
+
+### Data Analysis  
+P06 - Aim 1: Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
+P07 - Aim 2: Identify the Specific Bacteria that Best Distinguish Intestinal vs Diffuse Cancers
+P08 - Aim 3: Functional Analysis and Profiling of Microbial Communities Within Subtypes
+
+## Final Script 
+### QIIME 2
+- Data Processing  
+
+### R
+- Aim 1:
+- Aim 2:
+- Aim 3: 
+
+
 # Meeting Minutes - January 28, 2026 
 ### Introduction to Weekly Team Meetings 
 - We will lead discussion using your agenda
