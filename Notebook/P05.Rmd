@@ -1,5 +1,0 @@
----
-title: "P05"
-output: html_document
----
-
