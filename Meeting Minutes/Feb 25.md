@@ -60,7 +60,7 @@ A sampling depth of **10,222 reads** was selected based on curve stabilization a
 - Aim 4 – Functional Prediction (PICRUSt2 and Map to MetaCyc pathways)
 
 
-# Meeting Minutes Feb 25th, 2026
+# Meeting Minutes - February 25
 
 ### Agenda for the day:
 -	Go over research question
