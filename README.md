@@ -12,16 +12,16 @@
 
 ## Lab Notebook 
 ### Data Processing 
-- [P01](./Notebook/P01.Rmd) - QIIME 2 Demultiplexing
-- [P02](./Notebook/P02.Rmd) - QIIME 2 Denoising and Clustering
-- [P03](./Notebook/P03.Rmd) - QIIME 2 Taxonomic Analysis
-- [P04](./Notebook/P04.Rmd) - QIIME 2 Alpha-rarefaction
-- [P05](./Notebook/P05.Rmd) - QIIME 2 Diversity Analysis
+- [P01](./Notebook/P01.md) - QIIME 2 Demultiplexing
+- [P02](./Notebook/P02.md) - QIIME 2 Denoising and Clustering
+- [P03](./Notebook/P03.md) - QIIME 2 Taxonomic Analysis
+- [P04](./Notebook/P04.md) - QIIME 2 Alpha-rarefaction
+- [P05](./Notebook/P05.md) - QIIME 2 Diversity Analysis
 
 ### Data Analysis  
-- [P06](./Notebook/P06.Rmd) - Aim 1: Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
-- [P07](./Notebook/P07.Rmd) - Aim 2: Identify the Specific Bacteria that Best Distinguish Intestinal vs Diffuse Cancers
-- [P08](./Notebook/P08.Rmd) - Aim 3: Functional Analysis and Profiling of Microbial Communities Within Subtypes
+- [P06](./Notebook/P06.md) - Aim 1: Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
+- [P07](./Notebook/P07.md) - Aim 2: Identify the Specific Bacteria that Best Distinguish Intestinal vs Diffuse Cancers
+- [P08](./Notebook/P08.md) - Aim 3: Functional Analysis and Profiling of Microbial Communities Within Subtypes
 
 ## Final Script 
 ### QIIME 2
