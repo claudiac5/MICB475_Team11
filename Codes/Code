@@ -126,5 +126,51 @@ qiime diversity alpha-rarefaction \
   --m-metadata-file 0_inputs/metadata.tsv \
   --o-visualization 5_tree_rarefaction/alpha_rarefaction_gc_int_diff_40k.qzv
 
+# calculate alpha and beta diversity metrics 
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny 5_tree_rarefaction/rooted-tree.qza \
+  --i-table 4_filtering/table_gc_intestinal_diffuse.qza \
+  --p-sampling-depth 10222 \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --output-dir 6_core_metrics
+
+# Faith's PD
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 6_core_metrics/faith_pd_vector.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --o-visualization 6_core_metrics/faith_pd_diffuse_vs_intestinal.qzv
+
+# Shannon
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity 6_core_metrics/shannon_vector.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --o-visualization 6_core_metrics/shannon_diffuse_vs_intestinal.qzv
+
+# Bray-Curtis
+qiime diversity beta-group-significance \
+  --i-distance-matrix 6_core_metrics/bray_curtis_distance_matrix.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --m-metadata-column "Histopathology      (lauren classification)" \
+  --p-method permanova \
+  --p-permutations 999 \
+  --o-visualization 6_core_metrics/bray_diffuse_vs_intestinal_permanova.qzv
+
+# Weighted UniFrac
+qiime diversity beta-group-significance \
+  --i-distance-matrix 6_core_metrics/weighted_unifrac_distance_matrix.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --m-metadata-column "Histopathology      (lauren classification)" \
+  --p-method permanova \
+  --p-permutations 999 \
+  --o-visualization 6_core_metrics/weighted_unifrac_diffuse_vs_intestinal_permanova.qzv
+
+# Unweighted UniFrac
+qiime diversity beta-group-significance \
+  --i-distance-matrix 6_core_metrics/unweighted_unifrac_distance_matrix.qza \
+  --m-metadata-file 0_inputs/metadata.tsv \
+  --m-metadata-column "Histopathology      (lauren classification)" \
+  --p-method permanova \
+  --p-permutations 999 \
+  --o-visualization 6_core_metrics/unweighted_unifrac_diffuse_vs_intestinal_permanova.qzv
 
 
