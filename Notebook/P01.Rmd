@@ -1,5 +1,29 @@
----
-title: "P01"
-output: html_document
----
+
+# P01 - QIIME 2 Demultiplexing 
+
+Feb 
+
+## Purpose:
+ 
+
+## Material: 
+
+
+## Method:
+
+
+## Code: 
+
+
+## Output files:
+
+   
+## Results: 
+
+
+
+## Discussion:
+
+
+## Future direction:
 
