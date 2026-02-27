@@ -35,8 +35,8 @@ Figures, codes, etc
 Week 4 - brainstorm potential topics 
 Week 6 - proposal due
 
-# Pitches 
-## Gastric cancer: Lauren histological subtypes and the microbiome
+## Pitches 
+### Gastric cancer: Lauren histological subtypes and the microbiome
 
 Gap / novelty
 - Wang et al. grouped all gastric cancers together and did not stratify by Lauren classification
@@ -58,7 +58,7 @@ Research question
 ** Focus on Lauren's classification 
 
 
-## Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
+### Gastric cancer: tumor location (cardia vs non-cardia) and the microbiome
 
 Gap / novelty
 - Wang et al. did not analyze microbiome differences by tumor location
@@ -75,7 +75,7 @@ Research question
 
 ** Focus on tumor location
 
-## Multiple sclerosis: NSAID use as a microbiome confounder
+### Multiple sclerosis: NSAID use as a microbiome confounder
 
 Gap / novelty
 - Many MS patients use NSAIDs for pain
@@ -90,7 +90,7 @@ Research question
 - Is NSAID (Non-steroidal anti-inflammatory drug) use associated with distinct gut microbiome composition in MS patients, and does it contribute to observed differences vs healthy controls?
 
 
-## Alcohol Consumption
+### Alcohol Consumption
 
 Background 
 - Drinking alcohol is associated with variation in human oral microbiome (Fan et al., 2018)
@@ -112,7 +112,7 @@ Research question
 - Does alcohol consumption affect the oral microbiome differently in men versus women?
 - 
 
-## ART and microbiome
+### ART and microbiome
 
 Possible Project Ideas (Andy)
 
@@ -126,7 +126,7 @@ Does being on certain anti-retrovirals correlate with microbiome differences aft
 -	Current_art
 Possible confounders: Arm_short, Age, Gender
 
-## Gastric cancer and metabolic markers
+### Gastric cancer and metabolic markers
 
 https://doi.org/10.3389/fmicb.2020.00997
 Gastric Cancer dataset
@@ -140,7 +140,7 @@ Do metabolic markers (like glucose, cholesterol triglycerides) explain microbiom
 Possible confounders: Age, Gender, H. pylori test, Site
 
 
-## Possible Neuro-Imbalances Within Different Disorders: 
+### Possible Neuro-Imbalances Within Different Disorders: 
 
 Background / Novelty
 - Most of the previous UJEMI papers focused on a single disease, but for this project, we will look at two different neurological conditions/disorders and compare the metabolic signatures found in them. 
@@ -151,7 +151,7 @@ Background / Novelty
 Research Question
 - Across patients diagnosed with either Parkinson’s Disease and Depression, are there conserved "neuro-inflammatory" metabolic signals or distinct differences across different neurological conditions?
 
-## Infant Microbiome
+### Infant Microbiome
 
 This project uses an infant health and exposure metadata dataset to ask microbiology-focused questions about how early-life factors shape the gut microbiome. Although the dataset is primarily metadata (e.g., delivery mode, feeding type, antibiotic exposure, symptoms, and growth/appetite measures), each sample can be linked to microbiome sequencing outputs (e.g., 16S rRNA or shotgun profiles) using `#SampleID`. By combining metadata with microbial community data, we can test how specific exposures are associated with changes in microbial diversity, community composition, and the relative abundance of key taxa.
 
@@ -165,6 +165,6 @@ Key research directions include:
 
 Overall, the goal is to use real-world infant exposure and health variables to generate testable hypotheses about microbial ecology in early life and how microbiome development may relate to health outcomes.
 
-## Infant Microbiome
+### Infant Microbiome
 Does early antibiotic exposure influence infant gut microbiome maturation and appetite-related behaviours, and do these effects differ between male and female infants?
 
