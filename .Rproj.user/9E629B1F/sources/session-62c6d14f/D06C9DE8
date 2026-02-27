@@ -3,7 +3,7 @@
     "path": "~/Desktop/MICB 475 GITHUB/MICB475_Team11/Notebook /notebook.R",
     "project_path": "Notebook /notebook.R",
     "type": "r_source",
-    "hash": "2225825816",
+    "hash": "4041519083",
     "contents": "",
     "dirty": false,
     "created": 1772219930805.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,4",
+        "cursorPosition": "0,8",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1772219934,
+    "lastKnownWriteTime": 1772220090,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1772219934044,
+    "last_content_update": 1772220090165,
     "read_only": false,
     "read_only_alternatives": []
 }
