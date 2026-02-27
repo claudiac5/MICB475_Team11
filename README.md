@@ -5,7 +5,7 @@
 
 ## Agenda and Meeting Minutes 
 ### January 
-- Jan 28 
+- [Jan%2028](./Meeting%20Minutes/Jan%2028.md) 
 
 ### February 
 - Feb 4
