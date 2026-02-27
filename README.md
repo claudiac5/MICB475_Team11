@@ -387,9 +387,9 @@ A sampling depth of **10,222 reads** was selected based on curve stabilization a
 - Aim 4 – Functional Prediction (PICRUSt2 and Map to MetaCyc pathways)
 
 
-### Meeting Minutes Feb 25th, 2026
+# Meeting Minutes Feb 25th, 2026
 
-# Agenda for the day:
+### Agenda for the day:
 -	Go over research question
 -	Go through data processing
 -	QIIME2
@@ -397,7 +397,7 @@ A sampling depth of **10,222 reads** was selected based on curve stabilization a
 o	No chance to go over depth with Bessie
 o	Depth chosen only lost 2 samples, not maximum for features but very close so therefore chose 10,222
 
-# By next week try to do alpha/beta diversity metrics
+### By next week try to do alpha/beta diversity metrics
 -	What stats are we going to perform?
 This week expect feedback
 -	Other TA will grade and give feedback on project proposal
@@ -417,7 +417,7 @@ For samples we are left with 15 intestinal and 30 diffuse
 -	After rarefaction we lost 2 samples and we’re left with 43
 -	Both samples lost were intestinal
 
-# Going over proposal aims:
+### Going over proposal aims:
 For Aim 1:
 -	Maybe justify why you use these metrics
 -	Possible point of comment for TA, only address if it comes up
@@ -436,7 +436,7 @@ For Aim 3:
 For Aim 4:
 -	This is fine, no real feedback
 
-# In proposed approach
+### In proposed approach
 For Aim 1:
 -	In stats tests no linear model is possible, not a continuous variable
 For Aim 2:
@@ -452,6 +452,6 @@ For Aim 3:
 For Aim 4:
 -	Looks good
 
-# Future meetings will have more data so we can discuss troubleshooting
+### Future meetings will have more data so we can discuss troubleshooting
 
 
