@@ -2,7 +2,7 @@
 - Present our chosen dataset 
 - Propose potential research questions and areas of exploration
 
-# Meeting Notes - Feb 4, 2026 
+# Meeting Minutes - February 4, 2026 
 
 ### Proposed Datasets and Feedback (Bolded)
 <ins>Alcohol dataset:</ins>
