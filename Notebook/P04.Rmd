@@ -1,5 +1,28 @@
----
-title: "P04"
-output: html_document
----
+# P04 - QIIME 2 
 
+Feb 
+(jai)
+
+## Purpose:
+ 
+
+## Material: 
+
+
+## Method:
+
+
+## Code: 
+
+
+## Output Files:
+
+   
+## Results: 
+
+
+
+## Discussion:
+
+
+## Future direction:
