@@ -9,7 +9,7 @@
 ### 1. Rarefaction Decision
 * **Rarefaction Impact:** Our original plan involved a rarefaction depth of 10,222 reads/sample.
 * **Sample Loss:** This depth previously excluded 2 intestinal-type samples that were below the read count.
-* **Critical Context:** Those 2 samples represent 2 out of our 3 total female intestinal data points, and losing them would compromise our ability to model sex differences significantly.
+* **Context:** Those 2 samples represent 2 out of our 3 total female intestinal samples, and losing them would compromise our ability to model sex differences significantly.
 * **Our Proposed Decision:** We will continue with the rarefaction depth of **10,222 reads/sample** for our original aim 1 (now aim 1a), but for the gender-based aim, which was originally aim 3 (now aim 1b), we will do a rarefaction depth of **8386 reads/samples**, so that we keep all of the female-inestinal samples.
 * **Any Feedback?** 
 
