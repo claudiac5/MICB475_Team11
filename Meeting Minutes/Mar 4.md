@@ -1,7 +1,7 @@
 # Agenda - March 4
 
 ## Meeting Objectives
-* Talk about changes we made to our methodology, and how we won't be rarefying our data to keep required/significant samples (2/3 female + intestinal are lost).
+* Go over changes to our rarefaction methodology
 * Review the rubric and comments for our proposal.
 * GitHub reorganization
 
@@ -10,11 +10,11 @@
 * **Rarefaction Impact:** Our original plan involved a rarefaction depth of 10,222 reads/sample.
 * **Sample Loss:** This depth previously excluded 2 intestinal-type samples that were below the read count.
 * **Critical Context:** Those 2 samples represent 2 out of our 3 total female intestinal data points, and losing them would compromise our ability to model sex differences significantly.
-* **Our Proposed Decision:** We will not perform any rarefaction in order to maintain the full sample size of 45 GC samples and preserve the integrity of the female sample group.
+* **Our Proposed Decision:** We will continue with the rarefaction depth of **10,222 reads/sample** for our original aim 1 (now aim 1a), but for the gender-based aim, which was originally aim 3 (now aim 1b), we will do a rarefaction depth of **8386 reads/samples**, so that we keep all of the female-inestinal samples.
 * **Any Feedback?** 
 
-### 2. Combining Aims 1 and 3
-* We decided to combine these aims as we talked about in our last meeting, so we now have just the 3 aims as follows:
+### 2. Combining Previous Aims 1 and 3
+* We decided to combine these aims as we talked about in our last meeting, so our 3 new aims are:
 * **Aim 1:** Investigating the Microbiome Composition in Intestinal vs Diffuse Gastric Cancer and Evaluating the Influence of Biological Sex
 * **Aim 2:** Identifying the Specific Bacteria that Distinguish Intestinal vs Diffuse Cancers
 * **Aim 3:** Functional Analysis and Profiling of Microbial Communities Within Subtypes
