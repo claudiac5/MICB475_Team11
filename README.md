@@ -28,7 +28,7 @@
 - [Data Processing](https://github.com/claudiac5/MICB475_Team11/blob/main/QIIME2/Codes/Code.R)
 
 ### R
-- Aim 1:
+- Aim 1: [Aim 1 folder](R_Project/Aim1/)
 - Aim 2:
 - Aim 3: 
 
