@@ -15,7 +15,7 @@
 * **Sample Loss:** This depth previously excluded 2 intestinal-type samples that were below the read count.
 * **Critical Context:** Those 2 samples represent 2 out of our 3 total female intestinal data points, and losing them would compromise our ability to model sex differences significantly.
 * **Our Proposed Decision:** We will not perform any rarefaction in order to maintain the full sample size of 45 GC samples and preserve the integrity of the female sample group.
-* **Any Feedback?** 
+**Any Feedback?** 
 
 ### 3. Combining Aims 1 and 3
 * We decided to combine these aims as we talked about in our last meeting, so we now have just the 3 aims as follows:
@@ -29,6 +29,8 @@
   * Our lab notebook (we split it by sub-aims)
   * Our final script (including QIIME2 and R aims)
 * All of the files are accessible from our README file, in (hopefully) a clean and organized manner
-* **Any Feedback?**
+**Any Feedback?**
+
+
 
 # Meeting Minutes - March 4
