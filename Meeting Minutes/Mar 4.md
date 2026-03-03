@@ -1,17 +1,16 @@
 # Agenda - March 4
 
 ## Meeting Objectives
+* Talk about changes we made to our methodology, and how we won't be rarefying our data to keep required/significant samples (2/3 female + intestinal are lost).
 * Review the rubric and comments for our proposal.
-* Talk about our change in methodology, we won't be rarefying our data to preserve required samples for significance (2/3 female + intestinal are lost).
 
-
-### 1. Addressing Instructor Feedback
+### 1. Addressing Proposal Feedback
 * **Title Revision:** We have to update our current title to better reflect the functional analysis we are going to perform.
 * **Introduction & Background:** We need to expand upon existing studies to ensure the research gap is explicitly clear.
 * **Experimental Aims:** Our aims don't have any specific analysis, so we have to add the ones we're going to use for our research question.
 * **Proposed Approach Table:** We have to go over our proposed approach table and make sure the statistical analysis/tools and R functions align logically with our aims.
 
-### 2. Rarefaction Decision & Data Integrity
+### 2. Rarefaction Decision
 * **Rarefaction Impact:** Our original plan involved a rarefaction depth of 10,222 reads/sample.
 * **Sample Loss:** This depth previously excluded 2 intestinal-type samples that were below the read count.
 * **Critical Context:** Those 2 samples represent 2 out of our 3 total female intestinal data points, and losing them would compromise our ability to model sex differences significantly.
