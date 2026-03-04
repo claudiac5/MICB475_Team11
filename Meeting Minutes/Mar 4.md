@@ -6,7 +6,7 @@
 * GitHub reorganization
 
 ### Questions to ask:
-*  Wilcox vs T-test (can we assume parametric here?)
+*  Wilcox vs T-test (can we assume parametric distribution for Aim 1? In other words is shannon classification here. We saw differences in significance w/ T-test being significnat but Wilcox not)
 *  Rarefaction depth and changing it for aim 3? (we dropped only 2 samples, but both from female intestinal group which already only had 3)
 *  Issues with statistical power of only 3 samples?
 *  Linear model vs 2 way ANOVA for parametric multiple predictors?
