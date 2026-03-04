@@ -5,7 +5,7 @@
 * Review the rubric and comments for our proposal.
 * GitHub reorganization
 
-* Questions to ask:
+### Questions to ask:
 *  Wilcox vs T-test (can we assume parametric here?)
 *  Rarefaction depth and changing it for aim 3? (we dropped only 2 samples, but both from female intestinal group which already only had 3)
 *  Issues with statistical power of only 3 samples?
