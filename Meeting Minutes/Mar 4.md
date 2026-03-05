@@ -80,3 +80,42 @@
 - Interpretation discussed:
   - Bray-Curtis detects differences driven by community composition/abundance.
   - Lack of UniFrac significance suggests limited evidence for phylogeny-based separation between subtypes (at least under current filtering/rarefaction).
+
+  ### Beta diversity – subtype × gender (Aim 3-style view; current plots are cross-subtype within sex)
+- Bray-Curtis PCoA colored by subtype and shaped/faceted by gender:
+  - Diffuse males appear to drive the separation; diffuse females cluster closer to intestinal samples.
+  - PC1 explains ~42.1% of variation (as seen on the plot).
+  --> these plots are useful, but they are not the exact comparison promised in the proposal 
+
+## Working conclusions (based on the 3 key figures discussed)
+- Diffuse vs intestinal subtypes differ in Bray-Curtis space (abundance/composition differences).
+- UniFrac results are not significant (unweighted/weighted), suggesting the subtype differences may not be strongly phylogeny-structured (under current settings).
+- The subtype separation in Bray-Curtis appears to be male-driven:
+  - Diffuse males separate strongly.
+  - Diffuse females cluster more closely with intestinal samples.
+- Alpha diversity (Shannon) supports a sex-dependent pattern across subtypes:
+  - Stronger/more reliable signal in males.
+  - Female signal is uncertain due to low n (low power).
+
+## Gap vs proposal (what we still must run to match what we promised)
+- In the proposal, we said we would compare males vs females within each subtype:
+  - Diffuse: male vs female
+  - Intestinal: male vs female
+- Current “subtype × gender” plots are mostly comparing diffuse vs intestinal within each sex (cross-subtype), which is interesting but not the same as within-subtype sex effects.
+- Plan: keep current cross-subtype-by-sex figures (they’re informative), but add the within-subtype male vs female analyses to align with the proposal.
+
+## Action items for next meeting
+1. Standardize all analyses at rarefaction depth = 8,000 and regenerate the key figures.
+2. Add statistics onto figures:
+   - Alpha diversity: Wilcoxon p-values (and effect direction) + sample sizes.
+   - Beta diversity: PERMANOVA p-values + R² (and specify distance metric).
+3. Run the missing comparisons promised in the proposal:
+   - Male vs female within diffuse
+   - Male vs female within intestinal
+4. Create a summary table of all stats (requested to speed up meetings):
+   - For each analysis: distance/metric, formula/terms (subtype, gender, interaction), p-value, R², permutations, and sample sizes.
+   - Include PERMANOVA results for:
+     - Bray-Curtis (subtype only; subtype+gender; subtype×gender)
+     - Unweighted UniFrac
+     - Weighted UniFrac
+5. Bring “significant results” to the next meeting so we don’t spend time hunting for p-values live.
