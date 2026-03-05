@@ -119,3 +119,4 @@
      - Unweighted UniFrac
      - Weighted UniFrac
 5. Bring “significant results” to the next meeting so we don’t spend time hunting for p-values live.
+6. Fix GIT HUB organized
