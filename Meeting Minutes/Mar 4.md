@@ -44,3 +44,39 @@
 
 
 # Meeting Minutes - March 4
+
+- Proposal feedback
+  - Main revisions: expand references in the introduction; in the aims, clearly state the analyses we will run.
+  - Workshop points: unclear if points are individual vs team-based
+  - Plan: do the proposal revision to recover the additional points.
+
+## Key decisions
+- Use Wilcoxon (non-parametric) instead of t-test for Shannon/alpha-diversity comparisons
+  - Reason: big disagreement between t-test and Wilcoxon suggests non-normality; Shannon metrics are not safe to assume normal.
+  - Example discussed: t-test p = 0.01315 vs Wilcoxon p = 0.2219 
+- Rarefaction depth must be consistent across aims.
+  - Decision: rarefy at 8,000 reads for all aims.
+  - Reason: original depth (10,000) caused Aim 3 to collapse to ~1 female sample; lowering to 8,000 keeps the female samples.
+  - Rarefaction curve appears near plateau by ~8,000 (so 8,000 is likely adequate coverage).
+  - Lowest sample depth discussed was ~8,260–8,386 (confirm exact minimum from table).
+
+## Results reviewed (current figures)
+
+### Alpha diversity (Shannon) – subtype × gender (cross-subtype within each sex)
+- Current visualization is confusing (dot indicates median/mean); change to boxplots.
+  - Make two separate plots: one for males, one for females (same axes, same formatting).
+- Pattern observed:
+  - Males: intestinal vs diffuse shows a clear/significant difference (direction noted as intestinal higher Shannon than diffuse in discussion; confirm in plot/stats).
+  - Females: trend appears opposite (significant decrease discussed), but statistical power is low (only ~3 female samples)
+- Keep this figure (it is interesting and supports a sex-dependent pattern), but clearly label sample sizes (n) on the plot.
+
+### Beta diversity – Aim 1 (diffuse vs intestinal,)
+- Bray-Curtis PCoA:
+  - Clear separation between diffuse and intestinal.
+  - PERMANOVA p-value reported in meeting: p = 0.0018 (confirm R² from output).
+- UniFrac:
+  - Unweighted UniFrac: not significant (p reported ~0.38; confirm).
+  - Weighted UniFrac: not significant (confirm exact p).
+- Interpretation discussed:
+  - Bray-Curtis detects differences driven by community composition/abundance.
+  - Lack of UniFrac significance suggests limited evidence for phylogeny-based separation between subtypes (at least under current filtering/rarefaction).
