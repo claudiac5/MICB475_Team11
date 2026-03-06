@@ -26,6 +26,7 @@
 ## Final Script 
 ### QIIME 2
 - [Data Processing](https://github.com/claudiac5/MICB475_Team11/blob/8e7ff746a1baedc12268bdb70d07c2a0499dcb47/QIIME2%20/Codes/Code.R)
+- [Data Processing](./QIIME2%20/Codes/Code.R)
 
 ### R
 - [Aim 1](R_Project/Aim1/)
