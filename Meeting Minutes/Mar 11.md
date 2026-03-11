@@ -1,6 +1,6 @@
 # Agenda - March 11
 
-## 1. Aim 1 – Revisions Presentation
+### 1. Aim 1 – Revisions Presentation
 
 Alpha Diversity (Shannon)
 - Boxplots, separated by sex (males vs females).
@@ -17,7 +17,7 @@ Questions:
 - Any suggestions on labelling, axes, or plot layout?
 - Cross-subtype comparisons as discussed previously? Male vs female within each subtype
 
-## 2. Aim 2 – Key Figures Review
+### 2. Aim 2 – Key Figures Review
 - Heatmap: Displaying relative abundances of key taxa.
 - Volcano Plot: Highlighting significant taxa between subtypes.
 - Bar Plot: Showing composition differences for top taxa.
@@ -30,7 +30,7 @@ Feedback:
 # Meeting Minutes - March 11
 
 
-## Aim 1 Feedback:
+### Aim 1 Feedback:
 
 **Add Faith’s PD for another alpha diversity analysis**
 
@@ -46,7 +46,7 @@ Weighted UniFrac PcoA by gender for both the diffuse and intestinal subtype resu
 - Go from a male angle when describing the data “decrease in Shannon diversity and increase in beta diversity ???”
 
 
-## Aim 2:
+### Aim 2:
 For the Top 15 Genera by Subtype plot, we should use a customized colour palette so that we can easily differentiate the genus in our plot cause right now the colours blend together because they are rainbow and transparent
 - We could use colour-blind friendly colours
 - Don’t worry about this taxa bar plot
