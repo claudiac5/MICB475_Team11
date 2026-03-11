@@ -487,7 +487,7 @@ if(length(sig_genera) > 0) {
     cluster_cols = cluster_cols_flag,
     fontsize_row = 8,
     fontsize_col = 8,
-    main = "Significant genera across intestinal and diffuse samples (* q<0.05, ** q<0.01)"
+    main = "Significant Genera Across Intestinal and Diffuse Samples (* q<0.05, ** q<0.01)"
   )
   
   # 13. Save
@@ -634,7 +634,7 @@ if (length(sig_genera) > 0) {
     clustering_method = "complete",
     fontsize_row = 8,
     fontsize_col = 8,
-    main = "Significant genera across intestinal and diffuse samples (* q<0.05, ** q<0.01)"
+    main = "Significant Genera Across Intestinal and Diffuse Samples (* q<0.05, ** q<0.01)"
   )
   
   # 9. Save heatmap
