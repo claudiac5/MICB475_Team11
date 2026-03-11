@@ -95,7 +95,7 @@ Saman proposed focusing on just Heliobacteria:
   - Our sex-based route is more novel and better
 - **TLDR: look at relative abundance differences of Heliobacteria within the diffuse subtype between male and female**
 
-## Three Main Takeaways:
-- Add Faith’s PD as another alpha diversity analysis in our project.
-- For the heatmap, we should do a filter and a cutoff of anything less than -1.
-- We should perform another analysis where we look at relative abundance differences of Heliobacteria within the diffuse subtype, comparing the male and female groups
+### Three Main Takeaways:
+- **Add Faith’s PD as another alpha diversity analysis in our project.**
+- **For the heatmap, we should do a filter and a cutoff of anything less than -1.**
+- **We should perform another analysis where we look at relative abundance differences of Heliobacteria within the diffuse subtype, comparing the male and female groups.**
