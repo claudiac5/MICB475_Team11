@@ -124,6 +124,6 @@ ggsave("Aim3_Volcano_Plot.png", plot = volcano_plot, width = 8, height = 6, dpi 
 
 
 
-# Research paper that coincides with our volcano plot findings: 
+# Research paper that aligns with our aim 3 findings: 
 # id.elsevier.com/as/gh9ccxxZhR/resume/as/authorization.ping
 # "Patients with metastatic gastric cancer of the diffuse type have the worst survival."
