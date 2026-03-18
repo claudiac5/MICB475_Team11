@@ -7,7 +7,9 @@
   - We could use different symbols to denote the different sexes in the volcano plot, but how can we differentiate in the heatmap?
 
 ### Reviewing Any Updated Figures From Last Week
-- I don't fully remember if we changed our figures from last week (aim 2), but if so, we can go over those too.
+- Volcano plot: show stronger difference by adding a +/- 1 log2fc
+- Box plot + Volcano plot: helicobacter relative abundance in diffuse gastric cancer
+- Heatmap: change colors to represent log2fc?
 
 ### Next Steps?
 - Prepare to write our manuscript draft
