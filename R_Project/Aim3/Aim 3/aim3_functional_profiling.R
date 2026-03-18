@@ -121,3 +121,9 @@ print(volcano_plot)
 
 # Saving the plot
 ggsave("Aim3_Volcano_Plot.png", plot = volcano_plot, width = 8, height = 6, dpi = 300)
+
+
+
+# Research paper that coincides with our volcano plot findings: 
+# id.elsevier.com/as/gh9ccxxZhR/resume/as/authorization.ping
+# "Patients with metastatic gastric cancer of the diffuse type have the worst survival."
