@@ -9,7 +9,7 @@ library(ggrepel)
 library(scales)
 library(vegan)
 
-# create results and figures folders if they do not already exist..
+# create results and figures folders if they do not already exist
 if (!dir.exists("../results")) dir.create("../results", recursive = TRUE)
 if (!dir.exists("../figures")) dir.create("../figures", recursive = TRUE)
 
