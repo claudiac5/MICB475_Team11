@@ -30,7 +30,7 @@
 ### R
 - [Aim 1](R_Project/Aim1/)
 - [Aim 2](./R_Project/Aim2)
-- Aim 3 
+- [Aim 3](./R_Project/Aim3)
 
 
 
