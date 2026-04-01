@@ -4,9 +4,7 @@ Go over presentation slides and get feedback
 
 # Meeting Minutes - April 1 
 
-Meeting Minutes 
-
-Title: 
+### Title: 
 Microbiome is a condition
 Dont know if use Dysbiosis 
 Biological sex is a major driver of dysbiosis 
@@ -19,13 +17,13 @@ Title claim - Major Driver in males
 
 Diffuse gastric cancer is a majority driver of microbiome dysbiosis and helicobacter enrichment in MALES 
 
-Slide 1: 
+### Slide 1: 
 This is exactly what they would like
 Diagram of cells
 Instead of the stats 
 Visual difference - phenotype 
 
-Slide 2:
+### Slide 2:
 Research gap 
 Might differ between sex 
 INSTEAD OF SEX MAY MODIFY 
@@ -38,20 +36,20 @@ Within each subtype
 How many males and females 
 Bold diffuse say thats the one we focused on
 
-Slide 3:
+### Slide 3:
 Alpha diversity is also compositional 
 Directly say there’s different beta and no alpha 
 Be more direct 
 Beta diversity dif observed and not alpha 
 
-Slide 4:
+### Slide 4:
 Okay 
 
-Slide 5: 
+### Slide 5: 
 Like the title 
 Like that we added the text to highlight observations 
 
-Slide 6:
+### Slide 6:
 Removed MARKED from title 
 Just show helicobatcer enrichment 
 Put some stats 
@@ -65,13 +63,13 @@ Subtypes first
 Then biological sex 
 Thats how we are going to present it, this is the general one, then we will look at bio males and females 
 
-Slide 7:
+### Slide 7:
 Add that there was greater number of pathways enriched in diffuse 
 Need to emphasize 
 IN TITLE 
 Few in intestinal 
 
-Slide 8: 
+### Slide 8: 
 Highlight males have overwhelmingly more data than females 
 Males more susceptible than females 
 Going to talk about CMP 
@@ -84,7 +82,7 @@ Slide 7 - few bullet points, describe signiifcance of pathways
 Common pathogenic metabolite 
 At least that way people have context on the functionality 
 
-Slide 9:
+### Slide 9:
 Further enhanced in males 
 Edit title to reflect this core findings
 Missing males 
@@ -95,7 +93,7 @@ Discuss in manuscript as to why
 And if corroborated 
 Can delete title, can be called conclusions or takeaways 
 
-Slide 10:
+### Slide 10:
 Short term
 Would we control to H. Pylori 
 If we are studying, 
