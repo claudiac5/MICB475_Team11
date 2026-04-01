@@ -1,6 +1,6 @@
 # Agenda - March 25
 
-(harinder)
+Go over slides to show Dr. Sun the logical flow 
 
 # Meeting Minutes - March 25
 
