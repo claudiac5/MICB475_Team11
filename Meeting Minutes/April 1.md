@@ -1,6 +1,7 @@
 # Agenda - April 1
 
-Go over presentation slides and get feedback 
+Present slides and gather feed back
+Ask any questions about presentation 
 
 # Meeting Minutes - April 1 
 
