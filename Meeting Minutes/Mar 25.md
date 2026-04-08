@@ -1,6 +1,7 @@
 # Agenda - March 25
 
-Go over slides to show Dr. Sun the logical flow 
+Show all our figures organized into a logical flow 
+Gather feedback as to which figures should be included in the manuscript and which should be supplemental
 
 # Meeting Minutes - March 25
 
